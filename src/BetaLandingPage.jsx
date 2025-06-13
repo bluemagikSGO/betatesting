@@ -8,19 +8,14 @@ const BetaLandingPage = () => {
           Join the Sportsloc Beta Testers
         </h1>
         <p className="text-lg md:text-xl mb-6">
-          Are you tired of struggling to find a football pitch, basketball or
-          tennis court, (any sporting activity) and or players? We’re fixing
-          that. Be a beta tester for Sportsloc today (where you help test our
-          app before we ship publicly) — Sportsloc is the platform that brings
-          local and international sports and players to your fingertips. Note:
-          You get a free verification badge when you join our beta tester list
-          and give an honest feedback after. Enter your email and we’ll notify
-          you when the beta app is ready.
+          Sportsloc is launching soon! Tired of searching for sport facilities
+          or local players? We’re building a platform to fix that — and we need
+          YOU. Join our beta test and test our app when we ship, get early
+          access + a verified badge when you give your honest feedback.
         </p>
         <form
           action="https://gmail.us1.list-manage.com/subscribe/post?u=c3236fede7b5c8e6e0417e4b4&amp;id=1fab91e900&amp;f_id=00c0aae1f0"
           method="post"
-          target="_blank"
           noValidate
           className="flex flex-col sm:flex-row gap-4 items-center justify-center"
         >
