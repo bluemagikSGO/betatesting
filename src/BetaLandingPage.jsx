@@ -7,11 +7,22 @@ const BetaLandingPage = () => {
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
           Join the Sportsloc Beta Testers
         </h1>
-        <p className="text-lg md:text-xl mb-6">
-          Sportsloc is launching soon! Tired of searching for sport facilities
-          or local players? We’re building a platform to fix that — and we need
-          YOU. Join our beta test and test our app when we ship, get early
-          access + a verified badge when you give your honest feedback.
+        <p className="text-lg md:text-xl mb-6 text-left">
+          Find Local Sports Centers & Players in Seconds – Be the First to Try
+          It! <br />
+          🚀 Sportsloc is almost here. No more Googling random venues or
+          struggling to find local games and players. We’re building the first
+          platform that helps you discover, connect, and play — all in one
+          place. <br /> 🎯 Want early access? Join our exclusive beta team to:
+        </p>
+        <ul className="text-2xl text-left md:text-xl mb-6">
+          <li>Get in before the public launch</li>
+          <li>Receive a Verified Player badge</li>
+          <li>Help shape the platform with your feedback</li>
+        </ul>
+        <p className="text-lg md:text-xl mb-6 text-left">
+          👉 Only 50 early spots available. Drop your email now and let’s build
+          the ultimate sports community together.
         </p>
         <form
           action="https://gmail.us1.list-manage.com/subscribe/post?u=c3236fede7b5c8e6e0417e4b4&amp;id=1fab91e900&amp;f_id=00c0aae1f0"
@@ -45,7 +56,7 @@ const BetaLandingPage = () => {
             id="mc-embedded-subscribe"
             className="px-6 py-3 bg-blue-500 hover:bg-blue-600 transition-all rounded-md font-semibold"
           >
-            Notify Me
+            Join the wait-list
           </button>
         </form>
       </div>
